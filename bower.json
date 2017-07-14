@@ -1,5 +1,5 @@
 {
-  "name": "hoffmann-webhosting",
+  "name": "ohYes",
   "version": "0.0.0",
   "dependencies": {
     "angular": "^1.4.0",
@@ -16,7 +16,7 @@
     "angular-mocks": "^1.4.0"
   },
   "appPath": "app",
-  "moduleName": "hoffmannWebhostingApp",
+  "moduleName": "ohYes",
   "overrides": {
     "bootstrap": {
       "main": [
