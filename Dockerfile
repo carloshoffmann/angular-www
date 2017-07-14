@@ -11,4 +11,3 @@ WORKDIR /usr/src/app
 EXPOSE 10010
 
 CMD node app.js
-
