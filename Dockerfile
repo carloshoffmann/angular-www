@@ -8,6 +8,6 @@ ADD . /usr/src/app
 #RUN ln -s /tmp/node_modules /usr/src/app/
 WORKDIR /usr/src/app
 
-EXPOSE 10010
+EXPOSE 9000
 
 CMD node app.js
